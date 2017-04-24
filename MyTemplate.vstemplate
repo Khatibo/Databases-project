@@ -1,0 +1,102 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>WebSite3</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>Web</ProjectType>
+    <ProjectSubType>CSharp</ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>WebSite3</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="ProjectName.webproj" File="ProjectName.webproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="AcceptReject.aspx">AcceptReject.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AcceptReject.aspx.cs">AcceptReject.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AdminPage.aspx">AdminPage.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AdminPage.aspx.cs">AdminPage.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AssignCourse.aspx">AssignCourse.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AssignCourse.aspx.cs">AssignCourse.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Create.aspx">Create.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Create.aspx.cs">Create.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="EditInformation.aspx">EditInformation.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="EditInformation.aspx.cs">EditInformation.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FirstPage.aspx">FirstPage.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FirstPage.aspx.cs">FirstPage.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LoginAdmin.aspx">LoginAdmin.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LoginAdmin.aspx.cs">LoginAdmin.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LoginStudent.aspx">LoginStudent.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LoginStudent.aspx.cs">LoginStudent.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LoginTeacher.aspx">LoginTeacher.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LoginTeacher.aspx.cs">LoginTeacher.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ParentLogIn.aspx">ParentLogIn.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ParentLogIn.aspx.cs">ParentLogIn.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ParentPage.aspx">ParentPage.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ParentPage.aspx.cs">ParentPage.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="PostAnnouncement.aspx">PostAnnouncement.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="PostAnnouncement.aspx.cs">PostAnnouncement.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="PostAssignment.aspx">PostAssignment.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="PostAssignment.aspx.cs">PostAssignment.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="School_infoA.aspx">School_infoA.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="School_infoA.aspx.cs">School_infoA.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="School_infoS.aspx">School_infoS.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="School_infoS.aspx.cs">School_infoS.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="School_infoT.aspx">School_infoT.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="School_infoT.aspx.cs">School_infoT.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SchoolInfo.aspx">SchoolInfo.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SchoolInfo.aspx.cs">SchoolInfo.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SchoolInfoFirst.aspx">SchoolInfoFirst.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SchoolInfoFirst.aspx.cs">SchoolInfoFirst.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SchoolSearchFirst.aspx">SchoolSearchFirst.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SchoolSearchFirst.aspx.cs">SchoolSearchFirst.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SignUpParent.aspx">SignUpParent.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SignUpParent.aspx.cs">SignUpParent.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SignUpTeacher.aspx">SignUpTeacher.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SignUpTeacher.aspx.cs">SignUpTeacher.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="StudentPage.aspx">StudentPage.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="StudentPage.aspx.cs">StudentPage.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TeacherAssignments.aspx">TeacherAssignments.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TeacherAssignments.aspx.cs">TeacherAssignments.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TeacherCourses.aspx">TeacherCourses.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TeacherCourses.aspx.cs">TeacherCourses.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TeacherPage.aspx">TeacherPage.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TeacherPage.aspx.cs">TeacherPage.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="VerifyStudents.aspx">VerifyStudents.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="VerifyStudents.aspx.cs">VerifyStudents.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="VerifyTeacher.aspx">VerifyTeacher.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="VerifyTeacher.aspx.cs">VerifyTeacher.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAnnouncements.aspx">ViewAnnouncements.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAnnouncements.aspx.cs">ViewAnnouncements.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAnnouncementsFirst.aspx">ViewAnnouncementsFirst.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAnnouncementsFirst.aspx.cs">ViewAnnouncementsFirst.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAnnouncementsP.aspx">ViewAnnouncementsP.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAnnouncementsP.aspx.cs">ViewAnnouncementsP.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAnnouncementsS.aspx">ViewAnnouncementsS.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAnnouncementsS.aspx.cs">ViewAnnouncementsS.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAnnouncementsT.aspx">ViewAnnouncementsT.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAnnouncementsT.aspx.cs">ViewAnnouncementsT.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAssignmentsT.aspx">ViewAssignmentsT.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewAssignmentsT.aspx.cs">ViewAssignmentsT.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewMyStudentsT.aspx">ViewMyStudentsT.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewMyStudentsT.aspx.cs">ViewMyStudentsT.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewQuestions.aspx">ViewQuestions.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewQuestions.aspx.cs">ViewQuestions.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewReviews.aspx">ViewReviews.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewReviews.aspx.cs">ViewReviews.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewReviewsFirst.aspx">ViewReviewsFirst.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewReviewsFirst.aspx.cs">ViewReviewsFirst.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewReviewsP.aspx">ViewReviewsP.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewReviewsP.aspx.cs">ViewReviewsP.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewReviewsS.aspx">ViewReviewsS.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewReviewsS.aspx.cs">ViewReviewsS.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewReviewsT.aspx">ViewReviewsT.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ViewReviewsT.aspx.cs">ViewReviewsT.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Web.config">Web.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="WriteReport.aspx">WriteReport.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="WriteReport.aspx.cs">WriteReport.aspx.cs</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
